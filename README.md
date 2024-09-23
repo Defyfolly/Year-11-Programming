@@ -1,9 +1,12 @@
 This file contains the code for my game called Blasphelda 
 The Game is about a human banished to a barren realm that strives for survival and athority over the Greek God
-Zeus.   You must battle him to beat the game. It will start as a Zelda style game then during the fight the
-scene will transition to a Street Fighter/Blasphemous battle.
+Zeus.  The aim of the game is exploration. You must look around the map in search of destiny but 
+reveals the harsh reality that a mere mortal cannot save himself from the wrath of the Gods.
+Made to endlessly wonder the ever extending plains of the barren Athens underworld.
 
-During the battle you may need to press the X on the window bar for the characters to show up.
+Have fun in this experience.
+
+These are my Resources.
 
 https://researchdatapod.com/how-to-solve-python-attributeerror-str-object-has-no-attribute-items/
 
@@ -14,3 +17,5 @@ https://stackoverflow.com/questions/57857774/why-is-my-program-not-displaying-th
 https://www.youtube.com/watch?v=QU1pPzEGrqw
 
 https://www.youtube.com/watch?v=s5bd9KMSSW4
+
+https://stackoverflow.com/questions/28416115/pygame-black-screen-wont-show-what-ive-written
